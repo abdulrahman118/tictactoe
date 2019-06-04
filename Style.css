@@ -1,0 +1,25 @@
+
+
+.main > div{
+    padding-top:10px;
+    padding-bottom: 5px; 
+}
+
+.header{
+    font-size: 2em;
+}
+
+table{
+ line-height: 3em;
+}
+
+td{
+    width:33% !important;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.btn-outline-primary:hover{
+    color: #007bff;
+    background-color: transparent;
+}
